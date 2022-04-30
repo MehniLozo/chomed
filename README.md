@@ -1,9 +1,12 @@
 # A SIMPLE NINJA BOT
-## PERCENTAGE TYPE
+##  TYPE
 - Linear
 - Non-Linear
 ## FUNCTIONALITIES
 - Speech Recognition
+### TODO
 - Task Recognition
+- Recognize orders 
+- Recommend products for different set of clients
 
 
